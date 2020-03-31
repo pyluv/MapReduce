@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10a76f6d-a1ce-4de8-94dd-f6ee22cd8f2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZByoMYbi9PED1aPFRPg7NaNPfn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mr-0529" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+  </component>
+  <component name="RunManager" selected="Application.topNDriver">
+    <configuration name="DistributedCacheDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.mrjoin.DistributedCacheDriver" />
+      <module name="HDFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.mrjoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowDriver" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.mpserialize.FlowDriver" />
+      <module name="HDFS" />
+      <option name="PROGRAM_PARAMETERS" value="c:\flow.txt c:\output" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.mpserialize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.mpgroup.OrderDriver" />
+      <module name="HDFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.mpgroup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.mrjoin.TableDriver" />
+      <module name="HDFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.mrjoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.mapreduce.WordCountDriver" />
+      <module name="HDFS" />
+      <option name="PROGRAM_PARAMETERS" value="c:/input c:/output" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.mapreduce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordcountDriver" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.mapreduce.WordcountDriver" />
+      <module name="HDFS" />
+      <option name="PROGRAM_PARAMETERS" value="C:/hello.txt C:/result.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.mapreduce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topNDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.topN.topNDriver" />
+      <module name="HDFS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.topN.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.topNDriver" />
+        <item itemvalue="Application.TableDriver" />
+        <item itemvalue="Application.DistributedCacheDriver" />
+        <item itemvalue="Application.OrderDriver" />
+        <item itemvalue="Application.WordCountDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10a76f6d-a1ce-4de8-94dd-f6ee22cd8f2f" name="Default Changelist" comment="" />
+      <created>1584326955615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584326955615</updated>
+      <workItem from="1584326958414" duration="970000" />
+      <workItem from="1584328019046" duration="17629000" />
+      <workItem from="1584496257753" duration="8103000" />
+      <workItem from="1584583665509" duration="2716000" />
+      <workItem from="1584930296303" duration="16146000" />
+      <workItem from="1585013590786" duration="11635000" />
+      <workItem from="1585043609924" duration="4112000" />
+      <workItem from="1585187758578" duration="18399000" />
+      <workItem from="1585529430224" duration="89000" />
+      <workItem from="1585529528469" duration="6709000" />
+      <workItem from="1585619461107" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="189" key="#FlowDriver" timestamp="1584497054696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="189" key="#FlowDriver/0.0.1920.1040@0.0.1920.1040" timestamp="1584497054696" />
+    <state x="1017" y="189" key="#HDFSClient" timestamp="1584328550423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="169" key="#HDFSClient.testMkdirs" timestamp="1584328700237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="169" key="#HDFSClient.testMkdirs/0.0.1920.1040@0.0.1920.1040" timestamp="1584328700237" />
+    <state x="1017" y="189" key="#HDFSClient/0.0.1920.1040@0.0.1920.1040" timestamp="1584328550423" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1584930896950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584930896950" />
+    <state x="653" y="189" key="#WordCountDriver" timestamp="1584584046205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="189" key="#WordCountDriver/0.0.1920.1040@0.0.1920.1040" timestamp="1584584046205" />
+    <state x="653" y="189" key="#WordcountDriver" timestamp="1584416856753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="189" key="#WordcountDriver/0.0.1920.1040@0.0.1920.1040" timestamp="1584416856753" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584416342875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584416342875" />
+    <state x="1219" y="228" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584328536665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1219" y="228" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584328536665" />
+    <state x="765" y="229" width="871" height="581" key="#com.intellij.ide.util.MemberChooser" timestamp="1585536474418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" width="871" height="581" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585536474418" />
+    <state x="715" y="223" key="#xdebugger.evaluate" timestamp="1585539983120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="223" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1585539983120" />
+    <state x="718" y="382" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585537117215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="382" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1585537117215" />
+    <state width="808" height="466" key="DebuggerActiveHint" timestamp="1585539948300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="808" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1585539948300" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585619504265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585619504265" />
+    <state width="1877" height="193" key="GridCell.Tab.0.bottom" timestamp="1585571057968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="193" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585571057968" />
+    <state width="1877" height="193" key="GridCell.Tab.0.center" timestamp="1585571057968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="193" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585571057968" />
+    <state width="1877" height="193" key="GridCell.Tab.0.left" timestamp="1585571057968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="193" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585571057968" />
+    <state width="1877" height="193" key="GridCell.Tab.0.right" timestamp="1585571057968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="193" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585571057968" />
+    <state width="1877" height="193" key="GridCell.Tab.1.bottom" timestamp="1585571057968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="193" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585571057968" />
+    <state width="1877" height="193" key="GridCell.Tab.1.center" timestamp="1585571057968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="193" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585571057968" />
+    <state width="1877" height="193" key="GridCell.Tab.1.left" timestamp="1585571057968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="193" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585571057968" />
+    <state width="1877" height="193" key="GridCell.Tab.1.right" timestamp="1585571057968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="193" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585571057968" />
+    <state x="611" y="325" key="SettingsEditor" timestamp="1585529692714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="611" y="325" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585529692714" />
+    <state x="680" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1585619464177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="680" y="378" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585619464177" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1584956421073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1584956421073" />
+    <state x="657" y="252" width="606" height="536" key="find.popup" timestamp="1585229886493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="252" width="606" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585229886493" />
+    <state x="342" y="215" key="new project wizard" timestamp="1585619509196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585619509196" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585230180556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585230180556" />
+    <state x="682" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584584580971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584584580971" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leecode/Test.java</url>
+          <line>7</line>
+          <properties class="leecode.Test">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learning/mrjoin/TableDriver.java</url>
+          <line>17</line>
+          <properties class="com.learning.mrjoin.TableDriver" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learning/mrjoin/DistributedCacheMapper.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learning/topN/topNMapper.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HDFS$OrderDriver.ic" NAME="OrderDriver Coverage Results" MODIFIED="1585023209616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.learning.mpgroup.*</FILTER>
+    </SUITE>
+  </component>
+</project>
